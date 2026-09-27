@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ai-catalog.org/schema/v1/ai-catalog.json",
+  "version": "1.0.0",
+  "name": "فرقة روّاد الزبداني - AI Catalog",
+  "description": "كتالوج الموارد والبيانات الرسمية لفرقة روّاد الزبداني للدبكة السورية والزفات والأفراح والمناسبات.",
+  "provider": {
+    "name": "فرقة روّاد الزبداني",
+    "url": "https://rowadzabadani.web.app/",
+    "contact": {
+      "phone": "+963936522543",
+      "whatsapp": "https://wa.me/963936522543"
+    }
+  },
+  "capabilities": [
+    {
+      "name": "حجز عروض الدبكة والزفات",
+      "description": "استعلام وحجز فرقة روّاد الزبداني للأعراس والافتتاحات والمناسبات عبر الواتساب والموقع المباشر."
+    }
+  ],
+  "resources": [
+    {
+      "type": "text/markdown",
+      "name": "LLMS Knowledge Base",
+      "url": "https://rowadzabadani.web.app/llms.txt",
+      "description": "ملف المعرفة العام بفرقة روّاد الزبداني المخصص لنماذج الذكاء الاصطناعي."
+    },
+    {
+      "type": "text/markdown",
+      "name": "Full LLMS Documentation",
+      "url": "https://rowadzabadani.web.app/llms-full.txt",
+      "description": "التوثيق الكامل والمشهد الفني لفرقة روّاد الزبداني."
+    },
+    {
+      "type": "application/xml",
+      "name": "Sitemap",
+      "url": "https://rowadzabadani.web.app/sitemap.xml",
+      "description": "خريطة الموقع لجميع الصفحات والموارد."
+    }
+  ]
+}

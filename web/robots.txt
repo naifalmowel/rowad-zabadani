@@ -1,0 +1,6 @@
+# Allow indexing for all search engines and AI web crawlers
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://rowadzabadani.web.app/sitemap.xml

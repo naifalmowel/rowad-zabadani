@@ -1,0 +1,18 @@
+{
+    "name": "فرقة روّاد الزبداني",
+    "short_name": "روّاد الزبداني",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#070706",
+    "theme_color": "#070706",
+    "description": "فرقة روّاد الزبداني - الدبكة إلها ناسها",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ]
+}
